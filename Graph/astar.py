@@ -1,6 +1,6 @@
 '''
     File name: astar.py
-    Author: Amir Mohammad Mirzaie
+    Author: Amir Mohammad Mirzaei
     Date created: April/11/2020
     Python Version: 3.7
 '''
